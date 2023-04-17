@@ -1,7 +1,7 @@
 # Cute Unicorn (FRONTEND)
 ## CRUD de um ecommerce de games
 
- 
+
 ## ![Flaming Unicorn (2)](https://user-images.githubusercontent.com/123910027/232359023-b965da49-95b5-4aca-ab4b-7d83cb4867be.png)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat-square)
